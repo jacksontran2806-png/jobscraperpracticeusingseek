@@ -1,82 +1,96 @@
-Title,Company,Location,Salary
-Ai Machine Learning Software Developer,GP Graders,Mount Waverley,Not listed
-Graduate AI Engineer,Optic Digital,Adelaide SA,Not listed
-Graduate Developer,Blackbook.AI,Brisbane QLD,Not listed
-Graduate AI Engineer,Tranzformd,Sydney NSW,NA
-Azure AI & Machine Learning Data Engineer,XO Sports,Melbourne VIC,Not listed
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Sydney NSW,Not listed
-"AI Builder / Automation Engineer (x2) - Junior to Mid - Claude Code, Python",Hill McGlynn,South Yarra,90-100k + Super
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Melbourne VIC,Not listed
-AI Analyst,Macpherson Kelley,Melbourne VIC,Not listed
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Perth WA,Not listed
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Brisbane QLD,Not listed
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Darwin NT,Not listed
-Data Scientist,"Talent – Specialists in tech, transformation & beyond",Richmond,Not listed
-Deloitte STEM Connect Virtual Experience,SEEK Grad,Canberra ACT,Not listed
-Graduate Software Engineer,Arturia AI,Macquarie Park,Not listed
-Clinical Data Engineer,Murdoch Children's Research Institute,Parkville,"$110,279 - $134,292 p.a plus super"
-Graduate Digital Technology,GM3,Wollongong,Not listed
-Data & AI Analyst | Data & Digital | Perth,Deloitte,Perth WA,Not listed
-Postdoctoral Fellow,Queensland University of Technology,Brisbane QLD,"Total remuneration range: $96,342 to $163,427 pa"
-Software Engineer,Techno Recruitment,Sydney NSW,Salary + Significant Equity up to $300k
-Data Scientist - Production Gen AI - Sydney,Pathway Search,Sydney NSW,Circa $120k + Super
-Graduate Data Science and Analytics,GFG Alliance,Chipping Norton,Competitive salary
-AI Consulting | Graduate,Zudello Pty Ltd,Brisbane QLD,Not listed
-Graduate Quantitative Trader: 2027,SEEK Grad,Sydney NSW,Not listed
-Staff Data Scientist - AI & NLP,Correlate Resources,Sydney NSW,Not listed
-Software Engineer / AI Specialist,Hume Building Products,Yennora,Not listed
-Graduate Engineer in Robotics,Automated Solutions Australia,Elizabeth South,Not listed
-Data Engineer,QTAC,Milton,"$130,000 – $140,000 per year + super"
-Clinical Graduate Australia - VIC and SA,Novotech (Australia) Pty Limited,Adelaide SA,+ Super + Bonus
-Data & Automation Analyst,Aussie Broadband Limited,Melbourne VIC,Not listed
-Python Data Test Engineer,Cognizant Technology Solutions Australia Pty Ltd,Melbourne VIC,Not listed
-Senior Data Scientist,FourQuarters Recruitment,Melbourne VIC,185000
-Statistical Programmer (CDISC – SDTM & ADaM),Datapharm Australia Pty Ltd,Drummoyne,Not listed
-Senior Data Scientist,Future Secure AI Pty Ltd,Sydney NSW,Not listed
-Research Engineer - Software,OncoRes Medical,Nedlands,Not listed
-Graduate Macro Analyst: 2027,SEEK Grad,Sydney NSW,Not listed
-Senior Data Scientist,PRA,Sydney NSW,$850 - $950 pd
-Data Engineer,hummgroup,Sydney NSW,Not listed
-Graduate Software Developer: 2027,SEEK Grad,Sydney NSW,Not listed
-2027 Animal Production Graduate Program,Nutrien Ag Solutions Limited,Dubbo,Competitive salary and benefits package
-Graduate Operations Analyst: 2027,SEEK Grad,Sydney NSW,Not listed
-Software Engineer,BiVACOR Australia Pty Ltd,Southport,"$125,000 – $150,000 per year"
-Senior Data Scientist,The Australian National University,Acton,"$138,182 - $144,783 per annum plus 17% super"
-AI Engineer,Artefact Heritage and Environment,Sydney NSW,Not listed
-Junior AI Consultant | Australian citizen,Billigence,Sydney NSW,Not listed
-Data Analyst,NCVER,Melbourne VIC,Not listed
-Graduate Geospatial Developer | Property & Economics,Colliers,Sydney NSW,Not listed
-Senior Machine Learning Developer,Correlate Resources,Sydney NSW,Not listed
-Junior Consultant,Intuit Technologies,Brisbane QLD,Not listed
-Quantitative Trader Internship: November 2026,SEEK Grad,Sydney NSW,Not listed
-Data Engineer,Smartgroup Corporation,Sydney NSW,Not listed
-Senior Data Scientist,City Facilities Management,Mulgrave,Not listed
-Software Engineer,Filenote AI,Sydney NSW,"$125,000 – $145,000 per year + super"
-Graduate Mechatronics Engineer,GFG Alliance,Laverton,Competitive salary
-Graduate Mechatronics Engineer,GFG Alliance,Rooty Hill,Competitive salary
-Graduate Geotechnical Engineer,Tonkin & Taylor Ltd,Melbourne VIC,Not listed
-Economic Research & Data Scientist,City of Adelaide,Adelaide SA,"$103,908 + 12% superannuation"
-AI & Automation Specialist,WS Remedial Group,Brisbane QLD,"$85,000 – $105,000 per year"
-Senior Data Scientist,Correlate Resources,Sydney NSW,Not listed
-Junior Software Developer,AusDiagnostics Pty Ltd,Mascot,Not listed
-Data Analyst,NCVER,Sydney NSW,Not listed
-MDM Junior Data Engineer,AVANADE ASIA PTE LTD,Sydney NSW,Not listed
-"Senior Product Data Scientist, Google Photos",Google,Sydney NSW,World Class Benefits
-AI Systems & Automation Developer,Grove Group,Pakenham,Not listed
-Junior Developer,The University Of Notre Dame,Fremantle,Not listed
-Quantitative Researcher – Honours and Master’s: 2026,SEEK Grad,Sydney NSW,Not listed
-Principal Data Scientist,NSW Department of Customer Service,Sydney NSW,$149739.0k - $173174.0k p.a. + superannuation
-Quantitative Researcher – PhD: 2026,SEEK Grad,Sydney NSW,Not listed
-Quantitative Systematic Trading Internship – PhD,SEEK Grad,Sydney NSW,Not listed
-Finance Graduate Program 2027 – Digital Transformation,Siemens Healthcare Pty Ltd,Melbourne VIC,Not listed
-AI Model Engineer,Cadence Connect,Brisbane QLD,Not listed
-Senior Machine Learning Engineer / AI Engineer,Correlate Resources,Sydney NSW,Not listed
-Junior Data Engineer,AVANADE ASIA PTE LTD,Sydney NSW,Not listed
-Junior Analyst,RaptorTech,Belmont,Not listed
-Graph Engineer/Data Modeller (Knowledge Graphs),FinXL IT Professional Services,Melbourne VIC,Not listed
-Research Scientist (AI and Scientific System Infrastructure),Australian Institute of Marine Science,Townsville,"$146,063 to $164,591 per annum plus 15.4% super"
-Data Analyst,NCVER,Canberra ACT,Not listed
-Data Engineer,Blackbook.AI,Brisbane QLD,Not listed
-Senior Data Scientist,AusNet Services,Melbourne VIC,Great rem & real development opportunities
-Graduate Program,Rural Funds Management Limited,Deakin,"Starting annual salary of $70,000"
-Spatial Analyst,GHD Pty Ltd,Robina,Not listed
+Title,Company,Location,Salary,URL
+Machine Learning Engineer Graduate (Trust and Safety Engineering) - 2027 Start,SEEK Grad,Sydney NSW,Not listed,https://au.seek.com/job/92137031
+Graduate AI Engineer,Earth AI,Alexandria,"$80,000 – $95,000 per year",https://au.seek.com/job/91913420
+Ai Machine Learning Software Developer,GP Graders,Mount Waverley,Not listed,https://au.seek.com/job/92010023
+Graduate AI Engineer,Optic Digital,Adelaide SA,Not listed,https://au.seek.com/job/92024918
+Analytics Graduate - 2027 Graduate Program,Kmart,Melbourne VIC,Not listed,https://au.seek.com/job/92171166
+"Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start",SEEK Grad,Sydney NSW,Not listed,https://au.seek.com/job/92136962
+Junior Statistical / ML Modeller,Cumming Technologies Pty Ltd,Brisbane QLD,"$85,000 – $100,000 per year",https://au.seek.com/job/92045753
+Graduate Software Engineer,Smartpath Pty Ltd,Melbourne VIC,"$70,000 – $85,000 per year",https://au.seek.com/job/92084368
+Graduate Data Engineer,NTI Ltd,Brisbane QLD,Not listed,https://au.seek.com/job/92161073
+Graduate Developer,Blackbook.AI,Brisbane QLD,Not listed,https://au.seek.com/job/91829219
+Graduate AI Engineer,Tranzformd,Sydney NSW,NA,https://au.seek.com/job/91956303
+Graduate Geospatial Data Engineer,Auto & General,Sydney NSW,Not listed,https://au.seek.com/job/92099361
+Graduate Software Engineer,Deswik,Brisbane QLD,Not listed,https://au.seek.com/job/92159166
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Melbourne VIC,"$79,346 - $88,070",https://au.seek.com/job/92161860
+Technology Graduate - 2027 Graduate Program,Kmart,Melbourne VIC,Not listed,https://au.seek.com/job/92170590
+Azure AI & Machine Learning Data Engineer,XO Sports,Melbourne VIC,Not listed,https://au.seek.com/job/91750524
+Deloitte STEM Connect Virtual Experience,SEEK Grad,Melbourne VIC,Not listed,https://au.seek.com/job/91853804
+Backend Software Engineer Graduate (Trust and Safety Engineering) - 2027 Start,SEEK Grad,Sydney NSW,Not listed,https://au.seek.com/job/92137195
+Business Intelligence Analyst (Junior) | Power BI & Excel | Grow Your Career,Turosi Pty Ltd,Geelong,Not listed,https://au.seek.com/job/92167717
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Brisbane QLD,"$79,346 - $88,070",https://au.seek.com/job/92161856
+Market Analyst – Energy & Carbon Markets (Graduate),Reputex (AU) Pty Ltd,Melbourne VIC,Not listed,https://au.seek.com/job/92079505
+Graduate- Data & Analytics,Unitywater,Mango Hill,Not listed,https://au.seek.com/job/92072633
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Sydney NSW,"$79,346 - $88,070",https://au.seek.com/job/92161852
+Graduate- Data & Analytics,Unitywater,Maroochydore,Not listed,https://au.seek.com/job/92072634
+Deloitte STEM Connect Virtual Experience,SEEK Grad,Perth WA,Not listed,https://au.seek.com/job/91853792
+Deloitte STEM Connect Virtual Experience,SEEK Grad,Darwin NT,Not listed,https://au.seek.com/job/91853810
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Adelaide SA,"$79,346 - $88,070",https://au.seek.com/job/92161855
+Product Quality Graduate - 2027 Graduate Program,Kmart,Melbourne VIC,Not listed,https://au.seek.com/job/92171455
+Cyber Security Graduate - 2027 Graduate Program,Kmart,Melbourne VIC,Not listed,https://au.seek.com/job/92170738
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Perth WA,"$79,346 - $88,070",https://au.seek.com/job/92161859
+Graduate Mechatronics Engineer,Veqtor Conveyors and Automation,Welshpool,Not listed,https://au.seek.com/job/92107335
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Hobart TAS,"$79,346 - $88,070",https://au.seek.com/job/92161861
+Deloitte STEM Connect Virtual Experience,SEEK Grad,Brisbane QLD,Not listed,https://au.seek.com/job/91853790
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Robina,"$79,346 - $88,070",https://au.seek.com/job/92161854
+Deloitte STEM Connect Virtual Experience,SEEK Grad,Canberra ACT,Not listed,https://au.seek.com/job/91853787
+AI Engineer | AI Agent Development | Video content,Purple TIC Enterprises Pty Ltd,Sydney NSW,"$125,000 – $135,000 per year",https://au.seek.com/job/92154270
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Darwin NT,"$79,346 - $88,070",https://au.seek.com/job/92161865
+2027 EY Graduate Program – ROAM,SEEK Grad,Melbourne VIC,Not listed,https://au.seek.com/job/92073651
+2027 NDIA Graduate Program (Affirmative Measures - Disability),National Disability Insurance Scheme,Sydney NSW,"$79,346 - $88,070",https://au.seek.com/job/92160100
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Canberra ACT,"$79,346 - $88,070",https://au.seek.com/job/92161858
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Geelong,"$79,346 - $88,070",https://au.seek.com/job/92161863
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Newcastle,"$79,346 - $88,070",https://au.seek.com/job/92161705
+2027 EY Graduate Program – ROAM,SEEK Grad,Perth WA,Not listed,https://au.seek.com/job/92073650
+2027 NDIA Graduate Program,National Disability Insurance Scheme,Alice Springs,"$79,346 - $88,070",https://au.seek.com/job/92161853
+Senior Data Scientist,Gallagher Bassett,Brisbane QLD,Not listed,https://au.seek.com/job/92157841
+Application Developer (Graduate),Solve by Talent,Melbourne VIC,Not listed,https://au.seek.com/job/92128246
+Human Resources Graduate Program 2027 and 2028,Australian Security Intelligence Organisation,Canberra ACT,plus 15.4% superannuation,https://au.seek.com/job/92158082
+TSPV - Data Scientist (INAN 5),Compas Pty Ltd,Canberra ACT,Not listed,https://au.seek.com/job/92169845
+Data Scientist,TABCORP,Sydney NSW,Competitive salary + super + bonus,https://au.seek.com/job/92109917
+Software Development Engineer in Test Intern (QA) - 2027 Start (BS/MS),SEEK Grad,Sydney NSW,Not listed,https://au.seek.com/job/92137065
+Data Scientist,Curtin University,Bentley,"$106,093 - $113,913 (G07) + 17% superannuation",https://au.seek.com/job/92144376
+Graduate Analyst,People2people - HR Solutions,Homebush,Not listed,https://au.seek.com/job/92087938
+Graduate Software Engineer,Arturia AI,Macquarie Park,Not listed,https://au.seek.com/job/91770261
+2027 EY Graduate Program – ROAM,SEEK Grad,Brisbane QLD,Not listed,https://au.seek.com/job/92073649
+AI Engineer | Audit & Assurance,Deloitte,Sydney NSW,Not listed,https://au.seek.com/job/92108581
+Graduate Systems Engineer,Crossmuller,Somersby,Not listed,https://au.seek.com/job/92088721
+Lead Data Scientist,Correlate Resources,Sydney NSW,Not listed,https://au.seek.com/job/92082397
+Data Engineer,National Heavy Vehicle Regulator,Brisbane QLD,"$109,640.95 + superannuation",https://au.seek.com/job/92170299
+AI Solutions Developer,MoreDent,Melbourne VIC,Highly Competitive Salary,https://au.seek.com/job/92139143
+AI / ML Engineer - New Project,Bridge Associates APAC Pty Ltd,Melbourne VIC,Not listed,https://au.seek.com/job/92123689
+Graduate Firmware Engineer,Tritium Power Solutions,Murarrie,Not listed,https://au.seek.com/job/92079385
+Data Engineer,FinXL IT Professional Services,Brisbane QLD,Not listed,https://au.seek.com/job/92170991
+Finance Graduate Program Mid - 2027 Intake,Australian Security Intelligence Organisation,Canberra ACT,plus 15.4% superannuation,https://au.seek.com/job/92159341
+Statistician and Data Scientist - Gordonvale,SRA (Sugar Research Australia),Gordonvale,Not listed,https://au.seek.com/job/92159771
+Graduate Data Science and Analytics,GFG Alliance,Chipping Norton,Competitive salary,https://au.seek.com/job/91849918
+Specialist Data Science (12-month FTC),South32 Group Operations Pty Ltd,Perth WA,Base | Bonus | Additional super,https://au.seek.com/job/92116955
+2027 EY Graduate Program – ROAM,SEEK Grad,Adelaide SA,Not listed,https://au.seek.com/job/92073653
+Data Scientist – Energy Markets,Equis Australia Management Pty Ltd,Brighton,Not listed,https://au.seek.com/job/92138596
+Quantitative Developer (Python) - Consulting,Clayton Utz,Sydney NSW,Competitive salary package + benefits,https://au.seek.com/job/92090208
+Postdoctoral Fellow,Queensland University of Technology,Brisbane QLD,"Total remuneration range: $96,342 to $163,427 pa",https://au.seek.com/job/92029121
+"Data Engineer - Azure, Fabric & Data Pipelines",Box Hill Institute,Box Hill,Attractive Remuneration + Perks,https://au.seek.com/job/92127716
+AI Consulting | Graduate,Zudello Pty Ltd,Brisbane QLD,Not listed,https://au.seek.com/job/91760915
+Senior Data Scientist,The Australian National University,Acton,"$138,182 - $144,783 per annum plus 17% super",https://au.seek.com/job/91982760
+Clinical Data Engineer,Murdoch Children's Research Institute,Parkville,"$110,279 - $134,292 p.a plus super",https://au.seek.com/job/92028163
+Senior Data Scientist,PRA,Sydney NSW,$850 - $950 pd,https://au.seek.com/job/91944009
+Graduate Digital Technology,GM3,Wollongong,Not listed,https://au.seek.com/job/91979567
+Research Engineer - Software,OncoRes Medical,Nedlands,Not listed,https://au.seek.com/job/91993514
+Data Scientist - 12 month contract,TRS - Public Sector,Melbourne VIC,Up to $1100 p/d inc super (may be negotiable),https://au.seek.com/job/92060613
+Data Engineer,Inteliment Consulting Australia,Sydney NSW,Not listed,https://au.seek.com/job/92136472
+Data Scientist,Motion Asia Pacific,Chullora,Not listed,https://au.seek.com/job/92046804
+Staff Data Scientist - AI & NLP,Correlate Resources,Sydney NSW,Not listed,https://au.seek.com/job/91798898
+Statistical Programmer (CDISC – SDTM & ADaM),Datapharm Australia Pty Ltd,Drummoyne,Not listed,https://au.seek.com/job/91965157
+Software Engineer – Full Stack & AI Systems,StudyNet Pty Ltd,Sydney NSW,"$95,000 – $105,000 per year",https://au.seek.com/job/92152079
+Forward Deployed AI Engineer,Galileo Search,Sydney NSW,Not listed,https://au.seek.com/job/92155390
+Data Engineer,The University of Queensland,Herston,$117958 - $132247 p.a. + 17% super + leave loading,https://au.seek.com/job/92045867
+Junior AI Consultant | Australian citizen,Billigence,Sydney NSW,Not listed,https://au.seek.com/job/91784879
+Data Test Automation Engineer,Correlate Resources,Sydney NSW,Not listed,https://au.seek.com/job/92115126
+Graduate Geospatial Developer | Property & Economics,Colliers,Sydney NSW,Not listed,https://au.seek.com/job/91720280
+Data Scientist - Production Gen AI - Sydney,Pathway Search,Sydney NSW,Circa $120k + Super,https://au.seek.com/job/91934603
+AI Engineer,Podium,Melbourne VIC,Not listed,https://au.seek.com/job/91984070
+Data Processing Analyst & Data Solutions Engineer,The Social Research Centre,Melbourne VIC,Not listed,https://au.seek.com/job/92131018
+Python Data Test Engineer,Cognizant Technology Solutions Australia Pty Ltd,Melbourne VIC,Not listed,https://au.seek.com/job/92018921
+Junior Software Developer,AusDiagnostics Pty Ltd,Mascot,Not listed,https://au.seek.com/job/91709786
+Senior Machine Learning Developer,Correlate Resources,Sydney NSW,Not listed,https://au.seek.com/job/91688757
+Senior Machine Learning Engineer / AI Engineer,Correlate Resources,Sydney NSW,Not listed,https://au.seek.com/job/91723425
